@@ -40,6 +40,4 @@ public class CaculatorTest {
 	public void testRem() {
 		assertEquals(1, calc.rem(4,3));
 	}
-
-
 }
