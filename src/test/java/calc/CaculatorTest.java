@@ -7,7 +7,6 @@ import org.junit.Test;
 
 public class CaculatorTest {
 	private static CalculatorMain calc;
-	
 	@BeforeClass
 	public static void setup(){
 		calc = new CalculatorMain();
@@ -25,7 +24,6 @@ public class CaculatorTest {
 	public void testMul() {
 		assertEquals(6, calc.mul(3,2));
 	}
-
 	@Test
 	public void testDiv() {
 		assertEquals(1, calc.div(2,2));
@@ -42,10 +40,6 @@ public class CaculatorTest {
 	public void testRem() {
 		assertEquals(1, calc.rem(4,3));
 	}
-
-
-
-
 
 
 }
