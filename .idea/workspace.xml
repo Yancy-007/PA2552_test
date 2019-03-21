@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36071325-5942-4072-aac8-b95526c3159f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/calc/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calc/CalculatorMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/calc/CalculatorMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="261">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding>
                 <element signature="e#138#139#0" expanded="true" />
                 <element signature="e#155#156#0" expanded="true" />
@@ -273,7 +274,7 @@
       <workItem from="1553123758666" duration="2418000" />
       <workItem from="1553126328771" duration="991000" />
       <workItem from="1553187318511" duration="2218000" />
-      <workItem from="1553191742192" duration="1157000" />
+      <workItem from="1553191742192" duration="1757000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1553092877430</created>
@@ -380,7 +381,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14880000" />
+    <option name="totallyTimeSpent" value="15480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,8 +515,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calc/CalculatorMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="261">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
