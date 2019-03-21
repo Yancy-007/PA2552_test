@@ -3,8 +3,6 @@ package calc;
 //test122224444ddadjkl
 
 
-//iiid
-
 public class CalculatorMain {
 	public CalculatorMain(){
 		
@@ -26,6 +24,6 @@ public class CalculatorMain {
 //	public int divByZero(int a, int b) { return a%b;}
 // public int presedence(int a,int b){return a+b;}
 
-	
+
 
 }
