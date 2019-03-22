@@ -44,4 +44,8 @@ public class CaculatorTest {
 	public void testdoub() {
 		assertEquals(4, calc.doub(2));
 	}
+	@Test
+	public void testhalf() {
+		assertEquals(4, calc.half(8));
+	}
 }
