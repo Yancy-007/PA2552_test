@@ -23,7 +23,7 @@ public class CalculatorMain {
 	//public int rem(int a, int b) { return a%b;}
 	public int doub(int a) { return 2*a;}
 	public int half(int a) { return a/2;}
-	public int pow(int a) { return a*a;}
+	public int trip(int a) { return 3*a;}
 //	public int divByZero(int a, int b) { return a%b;}
 // public int presedence(int a,int b){return a+b;}
 

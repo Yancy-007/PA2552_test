@@ -49,7 +49,7 @@ public class CaculatorTest {
 		assertEquals(4, calc.half(8));
 	}
 	@Test
-	public void testpow() {
-		assertEquals(4, calc.half(2));
+	public void testtrip() {
+		assertEquals(6, calc.trip(2));
 	}
 }
