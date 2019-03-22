@@ -21,6 +21,7 @@ public class CalculatorMain {
 		if(b == 0) { return 0;}
 	return a/b; }
 	public int rem(int a, int b) { return a%b;}
+	public int doub(int a) { return 2*a;}
 //	public int divByZero(int a, int b) { return a%b;}
 // public int presedence(int a,int b){return a+b;}
 

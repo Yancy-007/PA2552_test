@@ -40,4 +40,8 @@ public class CaculatorTest {
 	public void testRem() {
 		assertEquals(1, calc.rem(4,3));
 	}
+	@Test
+	public void testdoub() {
+		assertEquals(4, calc.doub(2));
+	}
 }
