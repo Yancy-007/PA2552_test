@@ -36,10 +36,10 @@ public class CaculatorTest {
 	public void testPresedence() {
 		assertEquals(30, calc.add(calc.mul(5, 5), calc.div(10, 2)));
 	}
-	/*@Test
+	@Test
 	public void testRem() {
 		assertEquals(1, calc.rem(4,3));
-	}*/
+	}
 	@Test
 	public void testdoub() {
 		assertEquals(4, calc.doub(2));
